@@ -39,6 +39,6 @@ app.post("/user", (req, res) => {
     });
 });
 
-app.listen(8000, () => {
+app.listen(8080, () => {
   console.log("backend listening on port 8000");
 });
