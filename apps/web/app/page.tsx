@@ -5,6 +5,7 @@ export default async function Home(){
   return(
     <div>
       {JSON.stringify(users)};
+      <h1>Hi</h1>
     </div>
   )
 }
