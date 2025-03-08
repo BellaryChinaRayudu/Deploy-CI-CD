@@ -1,0 +1,13 @@
+{
+  "name": "db",
+  "module": "index.js",
+  "type": "module",
+  "exports": {
+    "./client": "./index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.4.1",
+    "prisma": "^6.4.1",
+    "typescript": "^5.8.2"
+  }
+}

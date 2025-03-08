@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "module": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "db": "*",
+    "express": "^4.21.2",
+    "typescript": "^5.8.2"
+  }
+}
